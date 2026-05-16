@@ -13,6 +13,10 @@
 - [daily-python-practice](https://github.com/reifam-dev/daily-python-practice)
 - [daily-java-practice](https://github.com/reifam-dev/daily-java-practice)
 
+### Mini-Project Repositories
+- [python-mini-projects](https://github.com/reifam-dev/python-mini-projects)
+- [java-mini-projects](https://github.com/reifam-dev/java-mini-projects)
+
 Open to **Python / Java developer** roles or freelance opportunities in London or Tallinn.  
 Always happy to receive code feedback!
 
