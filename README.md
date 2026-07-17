@@ -3,8 +3,8 @@
 **Python & Java developer** | London / Open to Tallinn
 
 ### Certifications & Goals
-- Certified: **PCEP** + **PCAP** + **1Z0-811 (Java Foundations)** + **DP-900 (Azure Data Fundamentals)**
-- Next targets: **PCPP1** | **AI-901 (Azure AI Fundamentals)** | **AI-103 (Azure AI App & Agent Developer)** | **1Z0-829 (Java SE 17 Developer)**
+- Certified: **PCEP** + **PCAP** + **1Z0-811 (Java Foundations)** + **DP-900 (Azure Data Fundamentals)** + **AI-901 (Azure AI Fundamentals)**
+- Next targets: **PCPP1** | **AI-103 (Azure AI App & Agent Developer)** | **1Z0-829 (Java SE 17 Developer)**
 - Daily coding practice in **both languages** (PyCharm + IntelliJ)
 - Building portfolio projects with clean OOP, testing, file/network
   handling, and cross-language implementations
